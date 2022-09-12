@@ -2,7 +2,7 @@ package com.game.service;
 
 import com.game.entity.*;
 import com.game.exceptions.*;
-import com.game.model.Player;
+import com.game.entity.Player;
 import com.game.repository.PlayerRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
