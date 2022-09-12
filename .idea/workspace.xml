@@ -9,12 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8340797-7d40-4a8c-ac82-3cd0a0115070" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/game/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/java/com/game/controller/PlayerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/game/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/java/com/game/entity/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/game/repository/PlayerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/java/com/game/repository/PlayerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/main/java/com/game/service/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/java/com/game/service/PlayerService.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8340797-7d40-4a8c-ac82-3cd0a0115070" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +28,15 @@
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
@@ -82,7 +81,30 @@
       <recent name="C:\Users\Admin\template" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.62">
+    <configuration name="CreatePlayerTest and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.game.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.game.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.game.controller.AbstractTest" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="com.game.controller.CreatePlayerTest" />
+        <pattern testClass="com.game.controller.DeletePlayerTest" />
+        <pattern testClass="com.game.controller.GetAllTest" />
+        <pattern testClass="com.game.controller.GetCountTest" />
+        <pattern testClass="com.game.controller.GetPlayerTest" />
+        <pattern testClass="com.game.controller.UpdatePlayerTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.62" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.62" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="corretto-1.8">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -170,6 +192,11 @@
         </option>
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreatePlayerTest and 5 more" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -184,7 +211,8 @@
       <workItem from="1652615867432" duration="821000" />
       <workItem from="1653146983865" duration="179000" />
       <workItem from="1662916952715" duration="1957000" />
-      <workItem from="1662988663166" duration="2325000" />
+      <workItem from="1662988663166" duration="4273000" />
+      <workItem from="1662993879124" duration="280000" />
     </task>
     <servers />
   </component>
